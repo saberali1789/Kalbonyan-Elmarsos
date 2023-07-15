@@ -32,7 +32,7 @@
 - [S27- Web Socket](./Projects/02-Social-Feed/S27-%20Web%20Socket/)
 - [S28- Graphql](./Projects/02-Social-Feed/S28%20-%20Graphql/)
 
-#### [Finished Live Demo]()
+#### [Finished Live Demo](https://node-max-shop.onrender.com/)
 
 ---
 
@@ -44,6 +44,6 @@
 ---
 
 [Course-Link](https://www.udemy.com/course/nodejs-the-complete-guide/)<br>
+![Certificate](https://github.com/Abu-ellil/Kalbonyan-Elmarsos/assets/94858304/242faf05-3d0d-47a4-8a77-1e3f96973e39)
 
-![Certificate](https://via.placeholder.com/468x300?text=Certificate+Here)
 <br>
