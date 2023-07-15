@@ -91,15 +91,15 @@ h4 {
   padding: 1rem 3rem;
   font-size: 1.8rem;
   font-weight: 600;
-  border: 1px solid transparent;
+
   transition: 0.3s;
   background-color: transparent;
-  border: 2px solid var(--primarycololr);
+  border: 1px solid var(--primarycololr);
 }
 
 .prim-btns:hover {
-  background-color: var(--bgColor-2);
-  color: var(--primarycololr);
+  background-color: #fd606031;
+  color: var(--lightColor);
 }
 
 .hero {
@@ -113,6 +113,7 @@ h4 {
   display: grid;
   grid-template-columns: 1fr 1fr;
   padding: var(--padding);
+  justify-content: space-between;
 }
 
 .hero-text {
@@ -152,6 +153,7 @@ h4 {
 
 .hero-img img {
   width: 65%;
+  height: 100%;
   margin: 0 auto;
   border-radius: 10px;
   border: 1px solid var(--primarycololr);
@@ -170,6 +172,7 @@ h4 {
   left: 20%;
   background-color: var(--bgColor-2);
   z-index: 2;
+  
 }
 
 .hero-img::after {
@@ -180,8 +183,8 @@ h4 {
   border-radius: 7px;
   position: absolute;
   border: 1px solid var(--primarycololr);
-  top: -6%;
-  left: 14%;
+  top: -4%;
+  left: 15%;
   background-color: var(--bgColor-2);
   z-index: 1;
 }
