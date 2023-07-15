@@ -154,19 +154,19 @@ h4 {
   width: 65%;
   margin: 0 auto;
   border-radius: 10px;
-  /* border: 1px solid var(--primarycololr); */
+  border: 1px solid var(--primarycololr);
   z-index: 10;
 }
 
 .hero-img::before {
   content: "";
   display: block;
-  width: 67%;
+  width: 65%;
   height: 100%;
-  border-radius: 17px;
+  border-radius: 7px;
   position: absolute;
-  border: 0.3rem solid var(--primarycololr);
-  top: 6%;
+  border: 1px solid var(--primarycololr);
+  top: 4%;
   left: 20%;
   background-color: var(--bgColor-2);
   z-index: 2;
@@ -175,13 +175,13 @@ h4 {
 .hero-img::after {
   content: "";
   display: block;
-  width: 67%;
+  width: 65%;
   height: 100%;
-  border-radius: 17px;
+  border-radius: 7px;
   position: absolute;
-  border: 0.3rem solid var(--primarycololr);
-  top: -7%;
-  left: 11%;
+  border: 1px solid var(--primarycololr);
+  top: -6%;
+  left: 14%;
   background-color: var(--bgColor-2);
   z-index: 1;
 }
