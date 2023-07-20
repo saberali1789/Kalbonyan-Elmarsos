@@ -31,4 +31,5 @@
 
 [Course-Link](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)<br>
 
-![Certificate](https://via.placeholder.com/468x300?text=Certificate+Here)
+
+![20-Project Certificate](https://github.com/saberali1789/Kalbonyan-Elmarsos/assets/78509035/521d7c2a-a1d0-45d5-96c0-e69b254e688d)
