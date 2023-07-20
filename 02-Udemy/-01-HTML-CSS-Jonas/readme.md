@@ -19,5 +19,5 @@
 ---
 [Course-Link](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3)<br>
 
-![Certificate](https://via.placeholder.com/468x300?text=Certificate+Here)
+
 ![HTML certificat](https://github.com/saberali1789/Kalbonyan-Elmarsos/assets/78509035/8d65a545-ca47-42b0-89e4-88802a3d9c8a)
