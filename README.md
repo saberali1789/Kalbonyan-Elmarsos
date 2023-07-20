@@ -100,9 +100,9 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 ![75%](https://progress-bar.dev/75/?title=Done)
 |status| Project  | Technologies | Repository                                    | Demo |
 | ---  | -------- | ------------ | --------------------------------------------- | ---- |
-| [ ]  | Project 1| HTML CSS     | [Appie](Albonyan-projects/Appie/)             | [Demo](https://saberali1789.github.io/Appie/) |
-| [ ]  | Project 2| HTML CSS JS  | [Kanban Board](Albonyan-projects/Kanban-Board/)| [Demo](https://saberali1789.github.io/KanbanBoard/) |
-| [ ]  | Project 3| React js     | [Car Agency](Albonyan-projects/Car-Agency/)   | [Demo]() |
-| [ ]  | Project 4| MERN         | [Note App](Albonyan-projects/Note-App/)       | [Demo](https://your-notes-lqm4i9yn9-saberali1789.vercel.app/login) |
+| [x]  | Project 1| HTML CSS     | [Appie](Albonyan-projects/Appie/)             | [Demo](https://saberali1789.github.io/Appie/) |
+| [x]  | Project 2| HTML CSS JS  | [Kanban Board](Albonyan-projects/Kanban-Board/)| [Demo](https://saberali1789.github.io/KanbanBoard/) |
+| [x]  | Project 3| React js     | [Car Agency](Albonyan-projects/Car-Agency/)   | [Demo]() |
+| [x]  | Project 4| MERN         | [Note App](Albonyan-projects/Note-App/)       | [Demo](https://your-notes-lqm4i9yn9-saberali1789.vercel.app/login) |
 
 
