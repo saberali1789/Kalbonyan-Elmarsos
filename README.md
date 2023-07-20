@@ -50,7 +50,7 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 # LEARN JAVASCRIPT
 
-![0%](https://progress-bar.dev/100/?title=Done)
+![100%](https://progress-bar.dev/100/?title=Done)
 
 - [x] ` in progress` `52h 32m` - 01 - [ JavaScript - The Complete Guide 2023 (Beginner + Advanced) ](02-Udemy/-02-Js-Maximilian/)
 - [x] ` in progress` `16h 7m` - 02 - [20 Web Projects with vanilla JavaScript](02-Udemy/-03-Vanilla-Web-Projects/)
@@ -60,21 +60,21 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 # LEARN JAVASCRIPT (MERN = MongoDB, Express.js, React.js, NodeJS)
 
-![0%](https://progress-bar.dev/0/?title=Done)
+![%](https://progress-bar.dev/100/?title=Done)
 <span id="MERN"></span>
 <br />
 
 - ## ReactJs
 
-- [ ] `in progress` `48h` - 14 - [React - The Complete Guide (incl Hooks, React Router, Redux)](02-Udemy/-04-Reactjs-Maximilian/)
+- [x] `in progress` `48h` - 14 - [React - The Complete Guide (incl Hooks, React Router, Redux)](02-Udemy/-04-Reactjs-Maximilian/)
 
 - ## NodeJs
 
-- [ ] `in progress` `40h 31m` - 15 - [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](02-Udemy/-05-Nodejs-Maximilian/)
+- [x] `in progress` `40h 31m` - 15 - [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](02-Udemy/-05-Nodejs-Maximilian/)
 
 - ## Mern
 
-- [ ] `in progress` `20h 32m` - 15 - [MERN Stack Course 2022 - MongoDB, Express, React and NodeJS](02-Udemy/-06-MERN-Jobify/)
+- [x] `in progress` `20h 32m` - 15 - [MERN Stack Course 2022 - MongoDB, Express, React and NodeJS](02-Udemy/-06-MERN-Jobify/)
       <br />
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-109h1m-blue">
@@ -97,12 +97,12 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 # Projects
 
-![0%](https://progress-bar.dev/0/?title=Done)
+![75%](https://progress-bar.dev/75/?title=Done)
 |status| Project  | Technologies | Repository                                    | Demo |
 | ---  | -------- | ------------ | --------------------------------------------- | ---- |
-| [ ]  | Project 1| HTML CSS     | [Appie](Albonyan-projects/Appie/)             | [Demo]() |
-| [ ]  | Project 2| HTML CSS JS  | [Kanban Board](Albonyan-projects/Kanban-Board/)| [Demo]() |
+| [ ]  | Project 1| HTML CSS     | [Appie](Albonyan-projects/Appie/)             | [Demo](https://saberali1789.github.io/Appie/) |
+| [ ]  | Project 2| HTML CSS JS  | [Kanban Board](Albonyan-projects/Kanban-Board/)| [Demo](https://saberali1789.github.io/KanbanBoard/) |
 | [ ]  | Project 3| React js     | [Car Agency](Albonyan-projects/Car-Agency/)   | [Demo]() |
-| [ ]  | Project 4| MERN         | [Note App](Albonyan-projects/Note-App/)       | [Demo]() |
+| [ ]  | Project 4| MERN         | [Note App](Albonyan-projects/Note-App/)       | [Demo](https://your-notes-lqm4i9yn9-saberali1789.vercel.app/login) |
 
 
