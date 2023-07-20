@@ -1,0 +1,105 @@
+.navbarO {
+  display: flex;
+  justify-content: space-around;
+  padding: 1.4rem 0;
+  padding-bottom: 2rem;
+ position: fixed;
+  top: 0;
+  width: 90%;
+  background:linear-gradient(
+      90deg,
+      rgba(0, 9, 26, 0.45) 32.41%,
+      rgba(0, 0, 0, 0) 65.08%
+    ),#171c6154;
+    z-index: 1111;
+}
+.icon{
+  color: #fff;
+  font-size: 4rem;
+  display: none;
+}
+.logo {
+  color: #fff;
+  font-size: 4.6rem;
+  cursor: pointer;
+}
+
+.links button {
+  border: none;
+  background-color: transparent;
+  color: #fff;
+  font-size: 3rem;
+  font-weight: 500;
+}
+
+nav a{
+  text-decoration: none;
+  color:#fff;
+}
+
+nav a:hover{
+ color: #741906;
+}
+
+.links button:not(:last-child) {
+  margin-right: 3rem;
+}
+.cart-icon{
+  position: relative;
+}
+.cart-icon p {
+    position: absolute;
+    width: 2.2rem;
+    height: 3rem;
+    background-color: red;
+    border-radius: 6px;
+    text-align: center;
+    top: -13px;
+    right: -13px;
+    font-size: 2rem;
+}
+
+
+
+
+@media only screen and (max-width: 958px) {
+
+  .links{
+    display: none;
+  }
+  .open{
+    width: 400px;
+    display: block;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 95px;
+    right: auto;
+    left: auto;
+    background-color: rgba(8, 48, 85, 0.295);
+  }
+  .icon{
+    display: block;
+  }
+}
+@media only screen and (max-width: 768px) {
+
+  .logo {
+    font-size: 3.6rem;
+    margin-bottom: 1.2rem;
+  }
+
+
+  .links button {
+    font-size: 2.4rem;
+    margin-right: 0;
+  }
+
+  .cart-icon p {
+    width: 1.6rem;
+    height: 2.4rem;
+    font-size: 1.6rem;
+    top: -8px;
+    right: -8px;
+  }
+}

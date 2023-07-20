@@ -1,0 +1,72 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  width: 90%;
+  margin: auto;
+  overflow: hidden;
+}
+/* .App{
+  width: 80%;
+} */
+html {
+  font-size: 62.5%;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+a{
+  text-decoration: none;
+  color:#fff;
+}
+
+.grid-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.grid-3 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.comtainer {
+  width: 80%;
+  margin:0 auto;
+}
+
+.blur {
+  font-size: 12.8rem;
+  color: #ebebeb;
+  font-family: 'lora';
+  font-weight: 700;
+  padding: 8.6rem 0;
+  line-height: 16.4rem;
+}
+
+.secondary {
+  font-size: 2.8rem;
+  color: #741906;
+  text-align: center;
+}
+
+
+  
+@media only screen and (max-width: 600px) {
+  .grid-2{
+    grid-template-columns: 1fr;
+  }
+}
+
+
+@media only screen and (min-width: 601px) and (max-width: 1024px) {
+ 
+}
+
+
+@media only screen and (min-width: 1025px) {
+ 
+}

@@ -1,0 +1,94 @@
+.section-services {
+  height: 100vh;
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 9, 26, 0.214) 32.41%,
+      rgba(0, 0, 0, 0.214) 65.08%
+    ),
+    url(../components/img/CTABG.png);
+  background-size: cover;
+  margin-top: 5rem;
+}
+
+.services-titles {
+  text-align: center;
+  position: relative;
+}
+
+.services-title {
+  color: #12273d;
+  font-size: 5.2rem;
+  font-weight: 700;
+  font-family: "lora";
+  letter-spacing: 3px;
+  position: absolute;
+  top: 180px;
+    left: 660px;
+}
+
+.services-body{
+  gap: 6.4rem;
+}
+
+.services-content{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+text-align: center;
+gap: 3.6rem;
+}
+
+.servises-sub{
+font-weight: 700;
+font-size: 3.2rem;
+color: #12273d;
+}
+
+.services-description{
+color: #12273d;
+font-size: 2.2rem;
+
+
+}
+
+
+@media only screen and (max-width: 768px) {
+  .section-services {
+    height: auto;
+    padding: 6rem 0;
+  }
+
+  .services-title {
+    font-size: 3.6rem;
+    top: 80px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .services-body {
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+  }
+
+  .services-content {
+    gap: 2.4rem;
+  }
+
+  .servises-sub {
+    font-size: 2.4rem;
+  }
+
+  .services-description {
+    font-size: 1.8rem;
+  }
+  .section-services {
+    height: auto;
+    padding: 0rem 0;
+}
+.services-title {
+  font-size: 4.6rem;
+  top: 169px;
+}
+}

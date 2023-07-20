@@ -1,0 +1,153 @@
+.test-section {
+  background-color: #12273d;
+  height: 100vh;
+  position: relative;
+}
+
+.test-titles {
+  position: relative;
+  text-align: center;
+}
+
+.test-blur {
+  color: #ebebeb13;
+}
+
+.test-title {
+  color: #fff;
+  font-size: 5.2rem;
+  font-weight: 700;
+  font-family: "lora";
+  letter-spacing: 3px;
+  position: absolute;
+  top: 180px;
+  left: 630px;
+}
+
+.slider-cont {
+  display: flex;
+  width: 80%;
+  height: 100vh;
+}
+.slider-cont button {
+  background-color: aqua;
+  height: 2rem;
+}
+.slick-list {
+  height: 20vh;
+  display: flex;
+}
+.test-box {
+  width: 65%;
+  margin: 0 auto 6.6rem;
+  color: #12273d;
+  background-color: #fff;
+}
+
+.test-text {
+  font-size: 2.6rem;
+  color: #272727;
+  font-family: "lato";
+  font-weight: 500;
+  font-style: italic;
+  text-align: center;
+  padding: 7.6rem 10.12rem 3.6rem;
+}
+
+.stars {
+  font-size: 2.8rem;
+  text-align: center;
+  margin-bottom: 4.2rem;
+}
+
+.reviewer-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3.2rem;
+  padding-bottom: 3.2rem;
+}
+
+.reviewer-name {
+  font-size: 3.4rem;
+  font-weight: 600;
+}
+
+.reviewer-city {
+  font-size: 2.8rem;
+  font-style: italic;
+  color: #979797;
+}
+.car {
+  width: 150px;
+}
+.car-test {
+  position: absolute;
+  bottom: 79px;
+  right: 203px;
+  width: 354px;
+}
+
+@media only screen and (max-width: 768px) {
+  .test-section {
+    height: auto;
+    padding: 6rem 0;
+  }
+
+  .test-title {
+    font-size: 3.6rem;
+    top: 80px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .slider-cont {
+    width: 100%;
+    height: auto;
+  }
+
+  .test-box {
+    width: 90%;
+    margin: 0 auto 3.6rem;
+  }
+
+  .test-text {
+    font-size: 1.8rem;
+    padding: 4.2rem 2.4rem 2.4rem;
+  }
+
+  .stars {
+    font-size: 2.4rem;
+    margin-bottom: 2.4rem;
+  }
+
+  .reviewer-box {
+    flex-direction: column;
+    gap: 1.2rem;
+    padding-bottom: 2.4rem;
+  }
+
+  .reviewer-name {
+    font-size: 2.4rem;
+  }
+
+  .reviewer-city {
+    font-size: 1.8rem;
+  }
+
+  .car-test {
+    position: static;
+    margin-top: 3.6rem;
+    width: 100%;
+  }
+  .test-section {
+    height: auto;
+    padding: 0rem 0;
+  }
+  .test-title {
+    font-size: 4.6rem;
+    top: 175px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}

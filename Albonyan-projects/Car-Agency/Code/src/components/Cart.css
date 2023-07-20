@@ -1,0 +1,142 @@
+.cart-icon{
+  width: 5rem;
+  border: none;
+  background-color: #ffffff00;
+  color: #fff;
+  font-size: 4rem;
+}
+.cart {
+  background-color: #071423f0;
+  position: absolute;
+  position: fixed;
+  top: 95px;
+  right: 0;
+  width: 40rem;
+  height: 90vh;
+  width: 375px;
+  padding: 1.8rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 100;
+}
+
+.all-cars{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.item-cart {
+  display: flex;
+  justify-content: space-between;
+  background-color: #fff;
+  width: 331px;
+  height: 115px;
+  padding: 1.2rem;
+}
+
+.text-cart {
+  display: flex;
+  flex-direction: column;
+}
+
+.cart-title {
+  font-size: 1.6rem;
+}
+
+.cart-class {
+  font-size: 1.2rem;
+  padding: unset;
+}
+
+.btns-cart{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: .8rem;
+}
+
+.tow-btns-cart{
+  padding: 0 1rem;
+  color: #fff;
+  background-color: #741906;
+  border: none;
+  font-size: 1.8rem;
+
+}
+
+
+.decrease-cart{
+ border-top-left-radius: 5px;
+ border-bottom-left-radius: 5px; 
+}
+
+.increase-cart {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.btns-cart p {
+  font-size: 1.8rem;
+}
+
+.trash {
+  font-size: 1.9rem;
+  padding-left: .8rem;
+  cursor: pointer;
+}
+
+.img-cart img {
+  width: 138px;
+}
+
+
+.del-btn {
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 2rem;
+  font-family:  sans-serif;
+  background-color: #741906;
+  padding: 1.2rem 5.4rem;
+}
+.item-cart{
+  /* display: flex;
+  flex-direction: column; */
+}
+
+.carousel{
+
+}
+.carousel-inner{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+width: 90%;
+height: 66rem;
+}
+.carousel-control-prev {
+    left: 3px;
+    color: red;
+    background-color: rgb(126, 129, 129);
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+}
+.carousel-control-next {
+    left: 3px;
+    color: red;
+    background-color: rgb(173, 177, 177);
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+}
+.slide{
+  display: flex;
+  flex-direction: column;
+}

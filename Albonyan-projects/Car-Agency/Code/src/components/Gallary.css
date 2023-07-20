@@ -1,0 +1,51 @@
+.gallary-section {
+  height: 100vh;
+  background-image: url('../components/img/Cars.png');
+  background-size:100%;
+  display: flex;
+  justify-content: center;
+  align-items: center
+  /* max-width: 120%; */
+
+}
+
+.text-gallary {
+color: #fff;
+text-align: center;
+}
+
+.tesla {
+  font-size: 3.2rem;
+  margin: 1.2rem;
+}
+
+.gallary-info {
+  font-size: 2rem;
+  margin-bottom: 2.4rem;
+}
+
+.btn-gallary {
+color: #fff;background-color: transparent;
+border: #fff solid 3px;
+border-radius: 10px;
+font-size: 2.4rem;
+font-family: sans-serif;
+font-weight: 500;
+padding: 5px 35px;
+}
+
+
+@media only screen and (max-width: 768px) {
+
+.gallary-section {
+  height: 89vh;
+  background-size: 305%;
+}
+.text-gallary {
+  height: 249px;
+  background-color: #66666687;
+  color: #fff;
+  text-align: center;
+  width: 450px;
+}
+}
