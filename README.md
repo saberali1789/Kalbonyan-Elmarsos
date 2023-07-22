@@ -25,13 +25,13 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 # Learn Programing Fundamentals ,HTMl and CSS
 
-![0%](https://progress-bar.dev/0/?title=Done)
+![100%](https://progress-bar.dev/100/?title=Done)
 <br />
 
 - ## Programming foundations
 
-  - [ ] ` in progress` ` 2h 6m 40s` - 01 - [Programming Foundations: Fundamentals](01-Linkedin-Learning/-01-Programming-Foundation-Fundamentals/)
-  - [ ] ` in progress` ` 2h 4m 44s` - 02 - [Programming Foundations: Beyond the Fundamentals](01-Linkedin-Learning/-02-Programming-Foundations-Beyond-Fundamentals)
+  - [x] ` in progress` ` 2h 6m 40s` - 01 - [Programming Foundations: Fundamentals](01-Linkedin-Learning/-01-Programming-Foundation-Fundamentals/)
+  - [x] ` in progress` ` 2h 4m 44s` - 02 - [Programming Foundations: Beyond the Fundamentals](01-Linkedin-Learning/-02-Programming-Foundations-Beyond-Fundamentals)
         <br />
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-4h11m-blue">
@@ -39,9 +39,9 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 <!-- LEARN HTML, CSS, and GitHub -->
 
 - ## LEARN HTML, CSS, and GitHub
-  ![0%](https://progress-bar.dev/0/?title=Done)
-  - [ ] ` in progress` `37h 30m` - 01 - [Build Responsive Real-World Websites with HTML and CSS](02-Udemy/-01-HTML-CSS-Jonas/)
-  - [ ] ` in progress` `4h` - 02 - [Git: Become an Expert in Git & GitHub]()
+  ![100%](https://progress-bar.dev/100/?title=Done)
+  - [x] ` in progress` `37h 30m` - 01 - [Build Responsive Real-World Websites with HTML and CSS](02-Udemy/-01-HTML-CSS-Jonas/)
+  - [x] ` in progress` `4h` - 02 - [Git: Become an Expert in Git & GitHub]()
         <br />
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-31h301m-blue">
@@ -50,31 +50,31 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 # LEARN JAVASCRIPT
 
-![0%](https://progress-bar.dev/0/?title=Done)
+![100%](https://progress-bar.dev/100/?title=Done)
 
-- [ ] ` in progress` `52h 32m` - 01 - [ JavaScript - The Complete Guide 2023 (Beginner + Advanced) ](02-Udemy/-02-Js-Maximilian/)
-- [ ] ` in progress` `16h 7m` - 02 - [20 Web Projects with vanilla JavaScript](02-Udemy/-03-Vanilla-Web-Projects/)
+- [x] ` in progress` `52h 32m` - 01 - [ JavaScript - The Complete Guide 2023 (Beginner + Advanced) ](02-Udemy/-02-Js-Maximilian/)
+- [x] ` in progress` `16h 7m` - 02 - [20 Web Projects with vanilla JavaScript](02-Udemy/-03-Vanilla-Web-Projects/)
       <br />
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-68h39m-blue">
 
 # LEARN JAVASCRIPT (MERN = MongoDB, Express.js, React.js, NodeJS)
 
-![0%](https://progress-bar.dev/0/?title=Done)
+![%](https://progress-bar.dev/100/?title=Done)
 <span id="MERN"></span>
 <br />
 
 - ## ReactJs
 
-- [ ] `in progress` `48h` - 14 - [React - The Complete Guide (incl Hooks, React Router, Redux)](02-Udemy/-04-Reactjs-Maximilian/)
+- [x] `in progress` `48h` - 14 - [React - The Complete Guide (incl Hooks, React Router, Redux)](02-Udemy/-04-Reactjs-Maximilian/)
 
 - ## NodeJs
 
-- [ ] `in progress` `40h 31m` - 15 - [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](02-Udemy/-05-Nodejs-Maximilian/)
+- [x] `in progress` `40h 31m` - 15 - [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](02-Udemy/-05-Nodejs-Maximilian/)
 
 - ## Mern
 
-- [ ] `in progress` `20h 32m` - 15 - [MERN Stack Course 2022 - MongoDB, Express, React and NodeJS](02-Udemy/-06-MERN-Jobify/)
+- [x] `in progress` `20h 32m` - 15 - [MERN Stack Course 2022 - MongoDB, Express, React and NodeJS](02-Udemy/-06-MERN-Jobify/)
       <br />
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-109h1m-blue">
@@ -97,12 +97,12 @@ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help 
 
 # Projects
 
-![0%](https://progress-bar.dev/0/?title=Done)
+![75%](https://progress-bar.dev/75/?title=Done)
 |status| Project  | Technologies | Repository                                    | Demo |
 | ---  | -------- | ------------ | --------------------------------------------- | ---- |
-| [ ]  | Project 1| HTML CSS     | [Appie](Albonyan-projects/Appie/)             | [Demo]() |
-| [ ]  | Project 2| HTML CSS JS  | [Kanban Board](Albonyan-projects/Kanban-Board/)| [Demo]() |
-| [ ]  | Project 3| React js     | [Car Agency](Albonyan-projects/Car-Agency/)   | [Demo]() |
-| [ ]  | Project 4| MERN         | [Note App](Albonyan-projects/Note-App/)       | [Demo]() |
+| [x]  | Project 1| HTML CSS     | [Appie](Albonyan-projects/Appie/)             | [Demo](https://saberali1789.github.io/Appie/) |
+| [x]  | Project 2| HTML CSS JS  | [Kanban Board](Albonyan-projects/Kanban-Board/)| [Demo](https://saberali1789.github.io/KanbanBoard/) |
+| [x]  | Project 3| React js     | [Car Agency](Albonyan-projects/Car-Agency/)   | [Demo]() |
+| [x]  | Project 4| MERN         | [Note App](Albonyan-projects/Note-App/)       | [Demo](https://your-notes-lqm4i9yn9-saberali1789.vercel.app/login) |
 
 
