@@ -12,7 +12,7 @@
 ## Projects
 ### Omnifood
 - [Project-code](./Projects/Omnifood) <br>
-- [Live Demo](https://omnifood.dev/)
+- [Live Demo]([https://omnifood.dev/](https://saberali1789.github.io/Omnifood-Project/))
 ---
 ## Code
 - [Code](Code)
