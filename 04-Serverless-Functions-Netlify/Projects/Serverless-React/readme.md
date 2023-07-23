@@ -6,4 +6,4 @@
 
 #### Screenshot
 
-![image](https://via.placeholder.com/468x300?text=Project+Image)
+![image](https://github.com/Abu-ellil/Kalbonyan-Elmarsos/assets/94858304/e7618e14-90bf-45b3-bede-884857b795f1)
